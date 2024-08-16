@@ -1,6 +1,6 @@
 document.getElementById('heartButton').addEventListener('click', function() {
     createFloatingElements('heart', 25);
-    showRandomQuote();
+
 });
 
 document.getElementById('quoteButton').addEventListener('click', function() {
